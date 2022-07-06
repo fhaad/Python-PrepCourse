@@ -1,2 +1,2 @@
 # Python-PrepCourse
-Curso preparatorio de Pyathon
+Curso preparatorio de Python
